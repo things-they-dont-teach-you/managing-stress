@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Levels of help</title>
+  <desc id="d">Three levels. First, self-help and people you trust: breathing, sleep, movement, worry time, and talking it through. Second, if that isn't enough or it lasts: a help line, clinic, doctor or counsellor. Third, if a life is at risk: the emergency number or a crisis line, straight away. Numbers by country are in facts.md.</desc>
+  <rect width="720" height="340" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Levels of help</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Numbers for your country are in facts.md.</text>
+
+  <rect x="40" y="90" width="640" height="64" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="116" font-size="15" font-weight="600" fill="#0b0b0b">1. Self-help and people you trust</text>
+  <text x="60" y="140" font-size="14" fill="#0b0b0b">Breathing, sleep, movement, worry time, talking it through.</text>
+
+  <rect x="40" y="166" width="640" height="64" rx="8" fill="#fdf0e8" stroke="#eb6834" stroke-width="2"/>
+  <text x="60" y="192" font-size="15" font-weight="600" fill="#0b0b0b">2. Not enough, or it lasts</text>
+  <text x="60" y="216" font-size="14" fill="#0b0b0b">A help line, clinic, doctor or counsellor.</text>
+
+  <rect x="40" y="242" width="640" height="64" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="60" y="268" font-size="15" font-weight="700" fill="#0b0b0b">3. A life is at risk</text>
+  <text x="60" y="292" font-size="14" fill="#0b0b0b">The emergency number or a crisis line, straight away. Don't wait.</text>
+
+  <text x="40" y="328" font-size="12" fill="#52514e">Sources: WHO, stress; NHS, urgent help for mental health; NIMH, find help. Not medical advice.</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">The worry tree</title>
+  <desc id="d">Start with a worry and ask: can I do something about it? If yes, it is a problem you can act on: make a plan, then do the first step now or schedule it. If no, it is a what if: notice it, let it go for now, and bring your attention back to what you are doing.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="400" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">The worry tree</text>
+
+  <rect x="210" y="70" width="300" height="44" rx="8" fill="#2a78d6"/>
+  <text x="360" y="98" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">A worry</text>
+  <line x1="360" y1="114" x2="360" y2="140" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="210" y="146" width="300" height="44" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="360" y="174" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Can I do something about it?</text>
+  <line x1="290" y1="190" x2="190" y2="228" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="224" y="214" font-size="13" fill="#52514e" text-anchor="middle">Yes</text>
+  <line x1="430" y1="190" x2="530" y2="228" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="496" y="214" font-size="13" fill="#52514e" text-anchor="middle">No</text>
+
+  <rect x="40" y="234" width="300" height="120" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="262" font-size="15" font-weight="600" fill="#0b0b0b">A problem you can act on</text>
+  <text x="60" y="288" font-size="14" fill="#0b0b0b">Make a plan with small steps.</text>
+  <text x="60" y="310" font-size="14" fill="#0b0b0b">Do the first step now,</text>
+  <text x="60" y="332" font-size="14" fill="#0b0b0b">or schedule it.</text>
+
+  <rect x="380" y="234" width="300" height="120" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="400" y="262" font-size="15" font-weight="600" fill="#0b0b0b">A "what if"</text>
+  <text x="400" y="288" font-size="14" fill="#0b0b0b">Notice it and let it go for now.</text>
+  <text x="400" y="310" font-size="14" fill="#0b0b0b">Bring your attention back to</text>
+  <text x="400" y="332" font-size="14" fill="#0b0b0b">what you're doing.</text>
+
+  <text x="40" y="384" font-size="12" fill="#52514e">Source: NHS Every Mind Matters, tackling your worries. Not medical advice.</text>
+</svg>
