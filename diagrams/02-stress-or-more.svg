@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Is it more than everyday stress?</title>
+  <desc id="d">First: are you having thoughts of harming yourself? If yes, use a crisis line now. If no: has low mood or loss of interest lasted most of the day, every day, for more than two weeks, or is stress getting in the way of work, school or home? If yes, talk to a doctor, nurse or clinic. If no, it's likely everyday stress: try the skills in this course, and check again if it doesn't ease.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="440" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Is it more than everyday stress?</text>
+
+  <rect x="40" y="70" width="320" height="62" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="200" y="96" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Thoughts of harming</text>
+  <text x="200" y="116" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">yourself?</text>
+  <line x1="360" y1="101" x2="434" y2="101" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="397" y="93" font-size="13" fill="#52514e" text-anchor="middle">Yes</text>
+  <line x1="200" y1="132" x2="200" y2="162" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="210" y="152" font-size="13" fill="#52514e">No</text>
+
+  <rect x="440" y="70" width="240" height="62" rx="8" fill="#fbeaea" stroke="#d03b3b" stroke-width="2"/>
+  <text x="560" y="96" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">Use a crisis line now</text>
+  <text x="560" y="116" font-size="13" fill="#0b0b0b" text-anchor="middle">numbers in facts.md</text>
+
+  <rect x="40" y="168" width="320" height="102" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="200" y="194" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Low mood or no interest most</text>
+  <text x="200" y="214" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">of the day, every day, for over</text>
+  <text x="200" y="234" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">2 weeks? Or stress getting in</text>
+  <text x="200" y="254" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">the way of work, school, home?</text>
+  <line x1="360" y1="219" x2="434" y2="219" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="397" y="211" font-size="13" fill="#52514e" text-anchor="middle">Yes</text>
+  <line x1="200" y1="270" x2="200" y2="300" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="210" y="290" font-size="13" fill="#52514e">No</text>
+
+  <rect x="440" y="168" width="240" height="102" rx="8" fill="#fdf0e8" stroke="#eb6834" stroke-width="2"/>
+  <text x="560" y="210" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">Talk to a doctor,</text>
+  <text x="560" y="232" font-size="15" font-weight="700" fill="#0b0b0b" text-anchor="middle">nurse or clinic</text>
+
+  <rect x="40" y="306" width="640" height="74" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="334" font-size="15" font-weight="600" fill="#0b0b0b">Likely everyday stress</text>
+  <text x="60" y="358" font-size="14" fill="#0b0b0b">Try the skills in this course. If it doesn't ease, or gets worse, check again.</text>
+  <text x="40" y="414" font-size="12" fill="#52514e">Sources: NHS, depression symptoms; WHO, stress. A guide to when to get help, not a diagnosis.</text>
+</svg>

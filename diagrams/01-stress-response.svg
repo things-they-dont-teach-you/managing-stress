@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">What stress does</title>
+  <desc id="d">Pressure, such as an exam, a deadline or a bill, sets off the fight or flight response: the body releases adrenaline for a short boost. If the pressure passes, the body settles and the stress helped you act. If the pressure carries on for weeks, the body stays on alert and signs build up: poor sleep, headaches, an upset stomach, irritability, trouble concentrating, drinking or smoking more.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="360" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">What stress does</text>
+
+  <rect x="40" y="76" width="200" height="62" rx="8" fill="#ffffff" stroke="#52514e" stroke-width="2"/>
+  <text x="140" y="102" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="middle">Pressure</text>
+  <text x="140" y="122" font-size="13" fill="#52514e" text-anchor="middle">exam, deadline, bill</text>
+  <line x1="240" y1="107" x2="294" y2="107" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="300" y="76" width="380" height="62" rx="8" fill="#2a78d6"/>
+  <text x="490" y="102" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">Fight or flight</text>
+  <text x="490" y="122" font-size="13" fill="#ffffff" text-anchor="middle">adrenaline gives a short boost to act quickly</text>
+
+  <line x1="400" y1="138" x2="250" y2="186" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="580" y1="138" x2="560" y2="186" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="40" y="192" width="300" height="120" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="60" y="220" font-size="15" font-weight="600" fill="#0b0b0b">The pressure passes</text>
+  <text x="60" y="246" font-size="14" fill="#0b0b0b">The body settles.</text>
+  <text x="60" y="268" font-size="14" fill="#0b0b0b">A short burst helped you act.</text>
+
+  <rect x="380" y="192" width="300" height="120" rx="8" fill="#fdf0e8" stroke="#eb6834" stroke-width="2"/>
+  <text x="400" y="220" font-size="15" font-weight="600" fill="#0b0b0b">It carries on for weeks</text>
+  <text x="400" y="246" font-size="14" fill="#0b0b0b">The body stays on alert. Signs build:</text>
+  <text x="400" y="268" font-size="14" fill="#0b0b0b">poor sleep, headaches, upset stomach,</text>
+  <text x="400" y="290" font-size="14" fill="#0b0b0b">irritability, drinking or smoking more.</text>
+
+  <text x="40" y="344" font-size="12" fill="#52514e">Sources: WHO, stress; NHS Every Mind Matters, stress. Not medical advice.</text>
+</svg>

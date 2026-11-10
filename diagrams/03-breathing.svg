@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Calm breathing</title>
+  <desc id="d">Breathe in gently while counting steadily from 1 to 5. Breathe out gently while counting 1 to 5. Repeat for at least 5 minutes. It helps most as a daily habit.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Calm breathing</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Gently, at a steady count. Repeat for at least 5 minutes.</text>
+
+  <rect x="40" y="96" width="290" height="100" rx="8" fill="#2a78d6"/>
+  <text x="185" y="138" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Breathe in</text>
+  <text x="185" y="168" font-size="16" fill="#ffffff" text-anchor="middle">1 · 2 · 3 · 4 · 5</text>
+
+  <rect x="390" y="96" width="290" height="100" rx="8" fill="#e7f6ee" stroke="#0ca30c" stroke-width="2"/>
+  <text x="535" y="138" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="middle">Breathe out</text>
+  <text x="535" y="168" font-size="16" fill="#0b0b0b" text-anchor="middle">1 · 2 · 3 · 4 · 5</text>
+
+  <line x1="330" y1="130" x2="384" y2="130" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M535,196 C535,236 185,236 185,202" fill="none" stroke="#52514e" stroke-width="2" marker-end="url(#a)"/>
+  <text x="360" y="250" font-size="14" fill="#52514e" text-anchor="middle">and again</text>
+
+  <text x="40" y="284" font-size="12" fill="#52514e">Source: NHS, breathing exercises for stress. Best as a daily habit. Not medical advice.</text>
+</svg>
